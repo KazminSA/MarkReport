@@ -3,6 +3,8 @@ package MarksheiderReport;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+	DrillingOrt ort = new DrillingOrt();
+    ort.getValueOrt(12.00f, 20.7f);
     }
 }

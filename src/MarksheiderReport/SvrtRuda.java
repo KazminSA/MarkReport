@@ -1,5 +1,5 @@
 package MarksheiderReport;
 
 public class SvrtRuda {
-    private float
+    private float massOfValue;
 }
