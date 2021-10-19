@@ -1,4 +1,4 @@
-package MarksheiderReport;
+package MarksheiderReport.GeologPorod;
 
 public class MineRock {
     private String nameOfRock;

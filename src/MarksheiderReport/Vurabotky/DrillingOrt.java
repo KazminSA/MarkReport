@@ -1,7 +1,8 @@
-package MarksheiderReport;
+package MarksheiderReport.Vurabotky;
+
 import java.lang.Math;
 
-public class DrillingOrt extends Vurabotka{
+public class DrillingOrt extends Vurabotka {
 
     public void getValueOrt (float leigth, float crossSection) {
         double valueOfOrt = Math.round((leigth * crossSection)*10);

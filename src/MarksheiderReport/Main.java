@@ -1,6 +1,10 @@
 package MarksheiderReport;
 
+import MarksheiderReport.Vurabotky.DrillingOrt;
+
 public class Main {
+
+    private CheckVurabotka checkVurabotka;
 
     public static void main(String[] args) {
 
